@@ -10,7 +10,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to{" "}
           <a href="https://github.com/honorableCon/nextjs-tailwind-starter">
-            Nextjs Tailwind Starter
+            SN Genius
           </a>
         </h1>
       </main>
